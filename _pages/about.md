@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Shijie Zhang is currently an Associate Professor in [School of Computer Science](http://cs.njupt.edu.cn/) at [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/). He received the Ph.D. degree from [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/) in June 2025 (supervised by [Prof. Jiang Xiao](https://jxiao-hust.github.io/)). His research interest include blockchain scalability and blockchain securtiy. His research outcomes have been published in premier journals and conferences including VLDB, ICDE, INFOCOM, ICDCS, SRDS, TKDE, TDSC, etc. He also serves as the youth editor of Blockchain journal and many externel reviewers of TKDE, TIFS, TMC, TSC, etc.
 
 A data-driven personal website
 ======

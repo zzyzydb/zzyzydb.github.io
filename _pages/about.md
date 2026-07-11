@@ -1,54 +1,53 @@
 ---
 permalink: /
-title: "About me"
+title: "About"
+section_id: about
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Shijie Zhang is currently an Associate Professor in [School of Computer Science](http://cs.njupt.edu.cn/) at [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/). He received the Ph.D. degree from [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/) in June 2025 (supervised by [Prof. Jiang Xiao](https://jxiao-hust.github.io/)). His research interest include blockchain scalability and blockchain securtiy. His research outcomes have been published in premier journals and conferences including VLDB, ICDE, INFOCOM, ICDCS, SRDS, TKDE, TDSC, etc. He also serves as the youth editor of Blockchain journal and many externel reviewers of TKDE, TIFS, TMC, TSC, etc.
+Shijie Zhang is currently an Associate Professor in [School of Computer Science](http://cs.njupt.edu.cn/) at [Nanjing University of Posts and Telecommunications (NJUPT)](https://www.njupt.edu.cn/). He received the Ph.D. degree from [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/) in June 2025 (supervised by [Prof. Jiang Xiao](https://jxiao-hust.github.io/)). His research interests include blockchain scalability and blockchain security. His research outcomes have been published in premier journals and conferences including VLDB, ICDE, INFOCOM, ICDCS, SRDS, TKDE, TDSC, etc. He also serves as a youth editor of the [Blockchain journal](https://www.elspub.com/journals/blockchain/home/) and as an external reviewer for TDSC, TIFS, TMC, TSC, etc.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## News {#news}
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- **2026.5** One paper is accepted by IEEE TDSC.
+- **2026.4** One paper is accepted by IEEE TKDE.
+- **2025.12** One paper is accepted by IEEE INFOCOM.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+<h2 id="publications">Publications <span class="section-note">(*=corresponding author)</span></h2>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Lingyan Xue, Haiping Huang, Jiankuo Dong, Fu Xiao, and **Shijie Zhang**. Quantum-Resistant Data Sharing Scheme with Auditability for Internet of Vehicles. IEEE Transactions on Dependable and Secure Computing (TDSC), 2026. **(CCF A)**
+- Ru Cheng, Yifan Zhou, Jiang Xiao, **Shijie Zhang**, Haoyu Dong, Hai Jin, and Bo Li. Furion: Efficient and Atomic Cross-Blockchain Transactions Through Multi-Future Exploration. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026. **(CCF A)**
+- Cunyang Liu, Jiang Xiao, Haoyu Dong, Ru Cheng, Yifan Zhou, **Shijie Zhang**, and Hai Jin. JiangZiya: Dependency-aware Smart Contract Migration for Scalable Sharded Blockchains. In Proceedings of IEEE International Conference on Computer Communications (INFOCOM’26), 2026. **(CCF A)**
+- Yifan Zhou, Jiang Xiao, **Shijie Zhang**, and Hai Jin. MorphDAG: elastic DAG-based blockchains at scale. Frontiers of Computer Science (FCS), 2026. **(CCF B)**
+- **Shijie Zhang**, Ru Cheng, Xinpeng Liu, Jiang Xiao, Hai Jin, and Bo Li. Seer: Accelerating Blockchain Transaction Execution by Fine-Grained Branch Prediction. Proceedings of the VLDB Endowment (VLDB’25), 2025. **(CCF A)**
+- Binhong Li, Licheng Lin, **Shijie Zhang\***, Jianliang Xu, Jiang Xiao\*, Bo Li, and Hai Jin. FlexIM: Efficient and Verifiable Index Management in Blockchain. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2025. **(CCF A)**
+- Yuandi Cai, Ru Cheng, Yifan Zhou, **Shijie Zhang\***, Jiang Xiao\*, and Hai Jin. Enabling complete atomicity for cross-chain applications through layered state commitments. In Proceedings of International Symposium on Reliable Distributed Systems (SRDS’24), 2024. **(CCF B)**
+- **Shijie Zhang**, Jiang Xiao, Enping Wu, Feng Cheng, Bo Li, Wei Wang, and Hai Jin. MorphDAG: A Workload-Aware Elastic DAG-Based Blockchain. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. **(CCF A)**
+- Junpei Ni, Jiang Xiao, **Shijie Zhang**, Bo Li, Baochun Li, and Hai Jin. FLUID: Towards Efficient Continuous Transaction Processing in DAG-based Blockchains. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023. **(CCF A)**
+- Jiang Xiao, **Shijie Zhang**, Zhiwei Zhang, Bo Li, Xiaohai Dai, and Hai Jin. Nezha: Exploiting Concurrency for Transaction Processing in DAG-based Blockchains. In Proceedings of IEEE International Conference on Distributed Computing Systems (ICDCS’22), 2022. **(CCF B)**
+- Rui Han, Jiang Xiao, Xiaohai Dai, **Shijie Zhang**, Yi Sun, Baochun Li, and Hai Jin. Vassago: Efficient and Authenticated Provenance Query on Multiple Blockchains. In Proceedings of International Symposium on Reliable Distributed Systems (SRDS’21), 2021. **(CCF B)**
+- **Shijie Zhang**, Jong-Hyouk Lee. Analysis of the main consensus protocols of blockchain. ICT Express, 2021.
+- **Shijie Zhang**, Jong-Hyouk Lee. Mitigations on sybil-based double-spend attacks in bitcoin. IEEE Consumer Electronics Magazine, 2021.
+- **Shijie Zhang**, Jong-Hyouk Lee. A Group Signature and Authentication Scheme for Blockchain-Based Mobile-Edge Computing. IEEE Internet of Things Journal, 2020. **(CCF C)**
+- **Shijie Zhang**, Jong-Hyouk Lee. Eclipse-based Stake-Bleeding Attacks in PoS Blockchain Systems. In Proceedings of ACM International Symposium on Blockchain and Secure Critical Infrastructure (BCSI’19), 2019.
+- **Shijie Zhang**, Jong-Hyouk Lee. Double-spending with a Sybil attack in the Bitcoin decentralized network. IEEE Transactions on Industrial Informatics, 2019. **(CCF C)**
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## Honors and Awards {#honors-and-awards}
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- First Prize in the 1st International Meta-Computing Competition, Team leader, 2024
+- Activist for Social Practice, Huazhong University of Science and Technology, 2023
+- Merit Postgraduate, Huazhong University of Science and Technology, 2022
+- Zhixing Scholarship, Huazhong University of Science and Technology, 2022
 
-**Markdown generator**
+## Teaching {#teaching}
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+- Network Attacks and Defends, Nanjing University of Posts and Telecommunications, 2026 Autumn.
+- Blockchain Finance, Nanjing University of Posts and Telecommunications, 2026 Spring.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Professional Service {#professional-service}
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- Technical Program Committee Member: ACM BCSI 2020–2025, IEEE ICDLT 2025, IEEE ICCE 2019, IEEE ISCT 2019...
+- Journal Peer Reviewer: IEEE TDSC, IEEE TIFS, IEEE TMC, IEEE TSC, FCS, BCRA...

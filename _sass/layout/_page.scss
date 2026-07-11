@@ -16,6 +16,20 @@
   }
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+.page__title[id],
+.page__content h2[id] {
+  scroll-margin-top: 6rem;
+}
+
+.section-note {
+  font-size: 0.65em;
+  font-weight: normal;
+}
+
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
